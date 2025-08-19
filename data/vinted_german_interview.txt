@@ -1,0 +1,258 @@
+# Vinted Kundeninterview Transkript
+## Customer Buyer Journey Forschungssession
+
+**Datum:** 15. Juni 2025  
+**Dauer:** 29 Minuten  
+**Interviewer:** Lisa Weber, UX Forscherin  
+**Teilnehmerin:** Julia Müller, 32, Grafikdesignerin aus München  
+**Session Art:** Remote Video Interview  
+
+---
+
+## Einführung & Hintergrund
+
+**Lisa:** Hallo Julia, vielen Dank, dass du heute dabei bist. Könntest du mir erst einmal etwas über dich erzählen und deine allgemeinen Online-Shopping-Gewohnheiten?
+
+**Julia:** Hallo! Gerne, also ich bin 32, arbeite als Grafikdesignerin und kaufe eigentlich sehr gerne online ein. Ich würde sagen, ich bestelle mindestens zwei- bis dreimal pro Woche etwas - mal Lebensmittel bei Rewe, mal Kleidung, mal irgendwelche Deko-Sachen für die Wohnung. Ich achte dabei sehr auf Qualität und bin gleichzeitig immer auf der Suche nach besonderen Stücken, die nicht jeder hat.
+
+**Lisa:** Perfekt, das passt genau zu dem, worüber wir sprechen wollen. Wie bist du denn das erste Mal auf Vinted aufmerksam geworden?
+
+**Julia:** Das war vor etwa anderthalb Jahren. Meine Kollegin Steffi kam irgendwann mit einer wahnsinnig schönen Vintage-Lederjacke ins Büro, und als ich sie gefragt habe, wo sie die her hat, meinte sie "Vinted - kennst du das nicht?" Ich hatte noch nie davon gehört, aber sie hat mir dann erzählt, dass das so eine Art Flohmarkt-App ist, nur eben online. Das klang erst mal interessant, weil ich eigentlich gerne auf Flohmärkten stöbere, aber dafür hab ich oft keine Zeit.
+
+**Lisa:** Was war dein erster Eindruck von der Plattform, als du davon gehört hast?
+
+**Julia:** Ehrlich gesagt war ich erst mal etwas skeptisch. Ich dachte mir: "Online Second-Hand kaufen? Wie soll das denn funktionieren?" Ich meine, bei Kleidung muss man doch anprobieren, und man weiß nie, wie die Sachen wirklich riechen oder sich anfühlen. Aber Steffi hat so geschwärmt und gemeint, sie hätte schon Dutzende von Sachen gekauft und nur einmal was zurückgeschickt. Das hat mich dann doch neugierig gemacht.
+
+---
+
+## Erste Plattform-Erkundung
+
+**Lisa:** Was ist dann als nächstes passiert? Hast du dir die App sofort runtergeladen?
+
+**Julia:** Nein, tatsächlich nicht sofort. Ich hab erst mal gegoogelt, ob das seriös ist, hab ein paar Artikel darüber gelesen. Und dann hab ich mir gedacht: "Okay, ich schau mir das mal an, aber kaufen tu ich erstmal nichts." Die App hab ich mir dann an einem Sonntagnachmittag runtergeladen, als ich Langeweile hatte.
+
+**Lisa:** Erzähl mir von deiner ersten Erfahrung mit der App oder Website.
+
+**Julia:** Die Anmeldung war super einfach - E-Mail, Passwort, fertig. Was mir sofort aufgefallen ist: Die App sieht richtig professionell aus, nicht so zusammengebastelt wie manche andere Secondhand-Portale. Das Design war clean und modern, fast wie bei Zalando oder so.
+
+Dann kam diese Abfrage nach meiner Größe und meinen Vorlieben. Das fand ich clever, weil ich nicht erst durch tausend Sachen in Größe XS scrollen wollte, wenn ich M oder L brauche.
+
+**Lisa:** Wie hast du angefangen, das Sortiment zu erkunden? Wonach hast du gesucht?
+
+**Julia:** Ich hab einfach mal "Lederjacke" eingegeben, weil ich nach sowas Ähnlichem wie Steffis Jacke gesucht habe. Boah, da kamen so viele Ergebnisse! Ich konnte gar nicht glauben, wie viel Auswahl es gibt. Und dann hab ich angefangen, mit den Filtern zu spielen - Preis, Größe, Zustand, sogar nach Entfernung konnte ich sortieren.
+
+Ich glaube, ich hab in der ersten Session bestimmt zwei Stunden nur gestöbert. Es war wie eine Schatzsuche! Überall diese Designerteile zu Spottpreisen - ein Ganni-Kleid für 45 Euro, das normalerweise 200 kostet.
+
+---
+
+## Erste Kaufentscheidung
+
+**Lisa:** Was hat dich schließlich zu deinem ersten Kauf bewegt?
+
+**Julia:** Ich hab eine schwarze Acne-Lederjacke gefunden, die für 120 Euro angeboten wurde. Normalerweise kostet so eine neu um die 500 Euro! Die Verkäuferin hatte super Bewertungen - über 80 positive Reviews - und die Fotos sahen professionell aus. Mehrere Winkel, Details der Nähte, sogar das Innenfutter war fotografiert.
+
+Aber ich hab trotzdem erstmal ein paar Tage gezögert und bin immer wieder zu dem Angebot zurückgegangen.
+
+**Lisa:** Was waren deine Hauptbedenken oder Zweifel?
+
+**Julia:** Das Größte war die Passform. Bei einer 120-Euro-Jacke will man schon sicher sein, dass sie passt. Gerade bei Lederjacken ist das ja kritisch - zu eng und man sieht aus wie gepresst, zu weit und es sieht schlampig aus.
+
+Dann hatte ich Bedenken wegen des Zustands. "Sehr gut" stand da, aber was heißt das schon? Vielleicht riecht sie nach Zigaretten oder hat Kratzer, die man auf den Fotos nicht sieht.
+
+Und ich wusste auch nicht, wie das mit dem Rückgaberecht ist. Kann ich die Jacke zurückschicken, wenn sie nicht passt? Wie läuft das ab?
+
+**Lisa:** Wie hast du diese Bedenken überwunden?
+
+**Julia:** Ich hab der Verkäuferin geschrieben und ganz konkret nachgefragt: Wie fallen die Größen aus? Riecht die Jacke nach irgendwas? Kann sie mir die genauen Maße geben? Sie hat super schnell geantwortet - am selben Abend noch - und war total hilfsbereit. Hat mir sogar zusätzliche Detailfotos geschickt.
+
+Außerdem hab ich mir die AGBs von Vinted durchgelesen und gesehen, dass ich Käuferschutz habe. Das war beruhigend.
+
+---
+
+## Kauferfahrung
+
+**Lisa:** Führe mich durch den eigentlichen Kaufprozess.
+
+**Julia:** Das ging richtig fix! Ich hab auf "Kaufen" geklickt und wurde durch den Bezahlvorgang geleitet. Super transparent - Artikelpreis plus Versand, keine versteckten Gebühren. Das kannte ich von anderen Plattformen anders, wo am Ende plötzlich noch Servicegebühren oder sowas dazukommen.
+
+Bezahlt hab ich mit PayPal, das ging in unter einer Minute. Sofort danach kam eine Bestätigungsmail mit allen Details.
+
+**Lisa:** Wie war die Kommunikation mit der Verkäuferin während des Prozesses?
+
+**Julia:** Richtig gut! Sie hat mir gleich nach dem Kauf geschrieben, dass sie das Paket am nächsten Tag verschickt und mir die Sendungsverfolgung schickt. Das war sehr professionell. Und sie hat auch geschrieben: "Falls du Fragen hast oder was nicht passt, meld dich einfach." Das fand ich sehr kundenfreundlich.
+
+**Lisa:** Was waren deine Erwartungen bezüglich der Lieferung?
+
+**Julia:** Ich hab mit etwa einer Woche gerechnet, weil es ja kein Amazon Prime ist, sondern eine Privatperson, die erstmal zur Post muss. Sie hat tatsächlich am nächsten Tag verschickt, und ich konnte das Paket in der App verfolgen. Das war sehr beruhigend.
+
+---
+
+## Erhalt & Nach-Kauf-Erfahrung
+
+**Lisa:** Wie war das eigentliche Auspacken?
+
+**Julia:** Es war wie Weihnachten! Das Paket war super liebevoll verpackt - in einer schönen Box mit Seidenpapier und sogar einem kleinen handgeschriebenen Zettel: "Viel Freude mit der Jacke! Sie hat mir immer super gefallen, aber ich trage sie zu selten. LG, Anna"
+
+Die Jacke war genau wie beschrieben - eigentlich sogar in besserem Zustand als erwartet. Sie roch frisch und sauber, kein bisschen abgetragen, und sie hat perfekt gepasst.
+
+**Lisa:** Hattest du irgendwelche Probleme mit deinem ersten Kauf?
+
+**Julia:** Überhaupt nicht! Ich war so happy, dass ich sofort eine 5-Sterne-Bewertung hinterlassen hab und auch ein Foto von mir mit der Jacke hochgeladen hab. Ich dachte mir, das ist wichtig für das System - andere Käufer sollen sehen, wie die Jacke an einer echten Person aussieht.
+
+**Lisa:** Wie hat diese erste Erfahrung deine Wahrnehmung von Vinted beeinflusst?
+
+**Julia:** Total positiv! Ich hab gemerkt: Das ist kein chaotischer Online-Flohmarkt, sondern eine richtig gut durchdachte Plattform. Die Kombination aus günstigen Preisen, tollen Sachen und diesem persönlichen Touch - das gibt's sonst nirgends. Ich war definitiv angefixt.
+
+---
+
+## Entwicklung der Shopping-Gewohnheiten
+
+**Lisa:** Wie hat sich deine Nutzung von Vinted nach dieser ersten positiven Erfahrung entwickelt?
+
+**Julia:** Ich bin definitiv zur Stammkundin geworden. Ich schau bestimmt jeden zweiten Tag rein, manchmal auch nur kurz in der U-Bahn oder abends vor dem Fernseher. Gekauft hab ich mittlerweile bestimmt 25-30 Sachen über die letzten anderthalb Jahre.
+
+Ich folge auch bestimmten Verkäuferinnen, die ähnlichen Geschmack haben wie ich. Wenn die was Neues einstellen, bekomm ich eine Benachrichtigung. Das ist super praktisch.
+
+**Lisa:** Hattest du seitdem auch mal negative Erfahrungen?
+
+**Julia:** Ein paar kleinere Enttäuschungen schon. Einmal hab ich ein Kleid gekauft, das als "wie neu" beworben wurde, aber es hatte doch deutliche Gebrauchsspuren. Die Verkäuferin war aber kulant und hat mir einen Teil des Preises erstattet.
+
+Und einmal hat eine Verkäuferin ewig gebraucht zum Versenden - fast drei Wochen - und auf Nachrichten nicht reagiert. Das war nervig, aber der Vinted-Kundenservice hat sich drum gekümmert.
+
+**Lisa:** Wie suchst und stöberst du typischerweise heute?
+
+**Julia:** Ich bin viel strategischer geworden. Ich hab eine Watchlist mit Marken, die ich regelmäßig durchsuche - COS, Arket, Weekday, Ganni. Und ich nutze die Merkzettel-Funktion intensiv. Wenn ich was Schönes sehe, aber nicht sofort kaufen will, speichere ich es erstmal.
+
+Mittlerweile erkenne ich auch sofort, welche Angebote seriös sind. Klare, helle Fotos aus mehreren Winkeln, ehrliche Beschreibungen, Verkäufer mit vielen positiven Bewertungen - das sind meine Kriterien.
+
+---
+
+## Wertwahrnehmung & Vorteile
+
+**Lisa:** Was würdest du als die Hauptvorteile sagen, die du durch Vinted bekommst?
+
+**Julia:** Der finanzielle Aspekt ist natürlich riesig - ich gebe wahrscheinlich 70% weniger für Kleidung aus als früher. Aber es geht nicht nur ums Geld. Ich liebe diesen Nervenkitzel, wenn man ein absolutes Schnäppchen findet. Letzte Woche hab ich eine Bottega Veneta Tasche für 80 Euro gefunden, die neu 1.200 kostet!
+
+Außerdem ist es viel nachhaltiger. Ich hab ein schlechtes Gewissen bei Fast Fashion entwickelt, seit ich weiß, wie viel tolle Kleidung schon existiert und nur darauf wartet, ein zweites Leben zu bekommen.
+
+Und ich entdecke Marken und Styles, die ich mir sonst nie geleistet hätte. Durch Vinted bin ich mutiger geworden, was Mode angeht.
+
+**Lisa:** Gibt es auch Nachteile oder Frustrationen?
+
+**Julia:** Manchmal ist es schon frustrierend, wenn man was Bestimmtes sucht und es einfach nicht findet. Wenn ich für ein Event nächste Woche was Spezielles brauche, kann ich nicht darauf zählen, das Richtige zu finden.
+
+Die Größenunterschiede sind auch manchmal ein Problem, besonders bei Vintage-Sachen oder internationalen Marken. Ich frag mittlerweile fast immer nach genauen Maßen.
+
+Und manchmal werde ich süchtig nach dem Stöbern! Es ist wie ein Spiel - man denkt immer, gleich findet man das perfekte Teil.
+
+---
+
+## Verkaufserfahrung
+
+**Lisa:** Ich weiß, dass deine Kollegin auch verkauft hat. Hast du selbst auch schon mal verkauft?
+
+**Julia:** Ja, nach etwa einem halben Jahr hab ich angefangen, Sachen zu verkaufen. Teilweise, um Platz zu schaffen, teilweise um Geld für neue Käufe zu haben. Es ist schon befriedigend, wenn Sachen, die bei mir nur rumhängen, bei jemand anderem wieder geliebt werden.
+
+Das Einstellen ist relativ einfach - Fotos machen, beschreiben, Preis festlegen. Vinted nimmt eine kleine Gebühr, aber das ist fair für die Dienstleistung.
+
+**Lisa:** Wie erfolgreich warst du als Verkäuferin?
+
+**Julia:** Ich hab bestimmt schon 20 Sachen verkauft und dabei um die 400 Euro gemacht. Manche Sachen gehen sofort weg, andere liegen monatelang. Ich hab gemerkt: Gute Fotos sind das A und O. Wenn ich mir mehr Mühe mit den Bildern gebe, verkauft sich alles schneller.
+
+Das Schönste ist, wenn Käuferinnen mir schreiben, wie sehr sie sich über das Teil freuen. Das gibt einem ein gutes Gefühl.
+
+---
+
+## Community & Soziale Aspekte
+
+**Lisa:** Wie wichtig ist der Community-Aspekt von Vinted für deine Erfahrung?
+
+**Julia:** Ziemlich wichtig, ehrlich gesagt. Ich folge mehreren Verkäuferinnen, deren Stil ich mag, und hab mit einigen schon richtige kleine Beziehungen aufgebaut. Es gibt eine Frau aus Hamburg, die verkauft immer genau die Sachen, die ich mag - sie schreibt mir manchmal sogar, bevor sie was einstellt.
+
+Das Bewertungssystem schafft auch Vertrauen. Wenn jemand eine schöne Bewertung über ein Teil schreibt, das ich verkauft hab, freue ich mich richtig.
+
+**Lisa:** Nutzt du die sozialen Features von Vinted?
+
+**Julia:** Ich bin nicht super aktiv, aber ich mache schon mit bei den Bewertungen und lade manchmal Fotos hoch, wie ich die gekauften Sachen trage. Ich denke, das hilft anderen zu sehen, wie die Teile in echt aussehen.
+
+In den Foren bin ich auch manchmal - da tauschen sich die Leute über Styling-Tipps aus oder zeigen ihre besten Funde. Das ist ziemlich inspirierend.
+
+---
+
+## Vergleich mit anderen Plattformen
+
+**Lisa:** Wie steht Vinted im Vergleich zu anderen Arten, Kleidung zu kaufen?
+
+**Julia:** Es hat meine Shopping-Gewohnheiten komplett verändert. Ich gehe vielleicht noch alle paar Monate mal in die Stadt shoppen, aber meistens schaue ich erst bei Vinted, bevor ich was Neues kaufe.
+
+Im Vergleich zum normalen Einzelhandel braucht man mehr Geduld und muss mehr Zeit investieren, aber dafür bekommt man viel mehr für sein Geld.
+
+Verglichen mit anderen Secondhand-Plattformen fühlt sich Vinted am sichersten und professionellsten an. Die App ist einfach besser gemacht als die meisten anderen.
+
+**Lisa:** Kaufst du noch bei normalen Händlern?
+
+**Julia:** Viel seltener. Höchstens noch Basics wie Unterwäsche oder T-Shirts, oder wenn ich wirklich sofort was brauche. Aber mein Standard ist jetzt: Erst bei Vinted schauen.
+
+Manchmal browse ich noch bei Zara oder COS für Inspiration und suche dann bei Vinted nach ähnlichen Sachen.
+
+---
+
+## Zukünftige Nutzung & Empfehlungen
+
+**Lisa:** Wie siehst du deine Beziehung zu Vinted in der Zukunft?
+
+**Julia:** Ich denke, das ist jetzt dauerhaft Teil meines Lebens. Ich kann mir nicht vorstellen, wieder hauptsächlich neu zu kaufen, wenn ich so tolle Sachen secondhand finde.
+
+Ich werde wahrscheinlich auch mehr verkaufen. Mittlerweile denke ich beim Kauf schon mit: "Wenn mir das in einem Jahr nicht mehr gefällt, kann ich es wieder verkaufen."
+
+**Lisa:** Würdest du Vinted anderen weiterempfehlen?
+
+**Julia:** Auf jeden Fall! Ich hab schon mehrere Freundinnen angefixt. Ich sage immer: "Fang mit was Kleinem an, einer Bluse oder so, um ein Gefühl für die Plattform zu bekommen."
+
+Es ist besonders gut für Leute, die gerne einzigartige Sachen haben, auf Nachhaltigkeit achten oder einfach Geld sparen wollen. Wer alles sofort haben muss oder sehr wählerisch ist, für den ist es vielleicht nichts.
+
+**Lisa:** Welche Tipps hast du für neue Vinted-Nutzer?
+
+**Julia:** Habt Geduld und erwartet nicht, dass sofort alles perfekt läuft. Fangt mit Verkäufern an, die viele gute Bewertungen haben, und fragt ruhig nach, wenn ihr unsicher seid - die meisten sind super nett und hilfsbereit.
+
+Schaut euch alle Fotos genau an und lest die Beschreibungen aufmerksam. Wenn etwas unklar ist, fragt nach Maßen oder zusätzlichen Fotos.
+
+Und nutzt die Filter! Die sparen wirklich viel Zeit und helfen, genau das zu finden, was man sucht.
+
+---
+
+## Fazit
+
+**Lisa:** Gibt es noch etwas über deine Vinted-Erfahrung, was wir noch nicht besprochen haben?
+
+**Julia:** Ich glaube, wir haben das Wichtigste abgedeckt. Was ich noch sagen würde: Vinted hat mich bewusster gemacht, was Konsum angeht. Ich kaufe weniger impulsiv, weil ich weiß, dass ich fast alles auch gebraucht finden kann, wenn ich etwas Geduld habe.
+
+Und es macht Shopping wieder aufregend! Bei H&M oder Zara ist es immer dasselbe, aber bei Vinted weiß man nie, was man findet. Manchmal fühle ich mich wie eine Detektivin auf der Jagd nach dem perfekten Teil.
+
+**Lisa:** Perfekt. Vielen Dank, Julia, dass du deine detaillierte Erfahrung mit uns geteilt hast. Das war wirklich sehr aufschlussreich.
+
+**Julia:** Gerne! Hat Spaß gemacht, darüber zu reden. Vinted ist wirklich eine meiner besten Entdeckungen der letzten Jahre, also rede ich gerne darüber!
+
+---
+
+## Interview Zusammenfassung
+
+**Gesamtdauer:** 29 Minuten  
+**Identifizierte Hauptthemen:**
+- Qualitätsbewusstsein und Individualität als Hauptmotivation
+- Wichtigkeit von Vertrauen und Verkäuferbewertungen
+- Wertwahrnehmung über reinen Preis hinaus
+- Community- und Beziehungsaspekte
+- Entwicklung von Skepsis zu loyaler Befürwortung
+- Integration in reguläre Shopping-Routine
+
+**Bemerkenswerte Erkenntnisse:**
+- Erste Kaufhemmungen durch direkte Verkäuferkommunikation überwunden
+- Positive erste Erfahrung entscheidend für Plattform-Adoption
+- Browse-Verhalten wurde gewohnheitsmäßig und routiniert
+- Plattform veränderte generelle Konsummuster
+- Starke Mundpropaganda-Empfehlungsbereitschaft
+
+---
+
+*Ende des Transkripts*

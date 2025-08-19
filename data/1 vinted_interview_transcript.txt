@@ -1,0 +1,260 @@
+# Vinted Customer Interview Transcript
+## Customer Buyer Journey Research Session
+
+**Date:** May 28, 2025  
+**Duration:** 32 minutes  
+**Interviewer:** Alex Martinez, UX Researcher  
+**Participant:** Sarah Thompson, 28, Marketing Coordinator from Bristol, UK  
+**Session Type:** Remote video interview  
+
+---
+
+## Introduction & Background
+
+**Alex:** Hi Sarah, thank you for joining us today. Could you start by telling me a bit about yourself and your general online shopping habits?
+
+**Sarah:** Hi! Sure, so I'm 28, I work in marketing, and I'd say I'm quite an active online shopper. I probably make some kind of purchase online at least once a week, whether it's groceries, clothes, or random household stuff. I'm always looking for good deals and I really care about sustainability, which is actually how I first heard about Vinted.
+
+**Alex:** Perfect, that's exactly what we want to hear about. Can you walk me through how you first discovered Vinted?
+
+**Sarah:** Oh, this takes me back! It was probably about two years ago now. I was on Instagram, just scrolling through stories, and I kept seeing these posts from fashion influencers I follow showing off their "Vinted finds." At first, I thought it was just another fast fashion brand, but then I realized they were talking about second-hand clothes. That immediately caught my attention because I'd been trying to shop more sustainably.
+
+**Alex:** What was your initial impression of the platform when you first heard about it?
+
+**Sarah:** Honestly, I was a bit skeptical at first. I'd tried other second-hand platforms before like Depop, and sometimes the experience was hit or miss. But the influencers were showing really nice pieces, and they kept emphasizing how affordable everything was. Plus, they mentioned that Vinted didn't charge buyer fees, which was different from other platforms I'd used where you'd get hit with all these extra charges at checkout.
+
+---
+
+## Initial Platform Exploration
+
+**Alex:** So what happened next? Did you download the app right away?
+
+**Sarah:** Not immediately, actually. I think I bookmarked it mentally and then forgot about it for a few weeks. What really pushed me over the edge was when my friend Emma mentioned she'd sold loads of her old clothes on Vinted and made decent money. That's when I thought, "Okay, I need to check this out properly."
+
+**Alex:** Tell me about your first experience with the app or website.
+
+**Sarah:** I downloaded the app first because I do most of my browsing on my phone. The onboarding was pretty straightforward - just basic sign-up stuff. What I really liked was that it immediately asked about my size preferences and style interests. That felt smart because I didn't want to waste time scrolling through size 16 clothes when I'm a size 10, you know?
+
+The interface felt clean and modern, which was important to me. Some second-hand platforms can feel a bit outdated or cluttered, but Vinted felt more like shopping on ASOS or something similar.
+
+**Alex:** How did you start exploring the inventory? What were you looking for?
+
+**Sarah:** I think my first search was for "Zara blazers" because I needed something for work and Zara blazers are usually quite expensive new. I was amazed by how many options came up! The search filters were really helpful too - I could narrow it down by size, condition, price range, even by location if I wanted faster delivery.
+
+I spent probably an hour just browsing that first session. I wasn't necessarily planning to buy anything, but I was like a kid in a candy shop seeing all these designer and high-street pieces at such low prices.
+
+---
+
+## First Purchase Decision
+
+**Alex:** What eventually led to your first purchase?
+
+**Sarah:** I found this gorgeous Ted Baker dress that was listed for £25. I'd seen the same dress in their store for £180! The seller had really good reviews - I think she had like 50+ positive ratings - and the photos were clear and showed the dress from multiple angles. The description was detailed too, mentioning a tiny mark on the back that you could barely see.
+
+But I still hesitated for a few days. I kept going back to look at it, worried someone else would buy it.
+
+**Alex:** What were your main concerns or hesitations?
+
+**Sarah:** The biggest worry was whether it would actually fit properly. With online shopping generally, sizing can be tricky, but with second-hand clothes, you can't even rely on the brand's usual sizing because older pieces might fit differently, or the item might have shrunk slightly.
+
+I was also worried about the condition. Even with good photos, you never know if there are issues that don't show up in pictures - like odors, or fabric that feels different than expected.
+
+And honestly, I wasn't sure about the whole peer-to-peer selling thing. Like, what if the seller just decided not to send it? What protection did I have?
+
+**Alex:** How did you overcome those concerns?
+
+**Sarah:** I ended up messaging the seller directly. I asked about measurements and whether the dress ran true to size. She got back to me within a few hours with really detailed measurements and even offered to take additional photos. That level of responsiveness made me feel much more confident.
+
+I also spent time reading through Vinted's buyer protection policies. Knowing that my payment was protected and that I could return items if they weren't as described made me feel safer about taking the plunge.
+
+---
+
+## Purchase Experience
+
+**Alex:** Walk me through the actual purchase process.
+
+**Sarah:** It was surprisingly smooth! I clicked "Buy now" and it took me through the payment process. I liked that I could see the total upfront - the item price plus shipping. No hidden fees popping up at the last minute, which I've experienced on other platforms.
+
+I used my debit card, and the whole transaction probably took less than two minutes. Immediately after, I got a confirmation email with all the details and a tracking number would follow once the seller shipped it.
+
+**Alex:** How was the communication with the seller during this process?
+
+**Sarah:** Really good, actually. The seller sent me a message right after I purchased saying she'd post it the next day and included the tracking information. She even threw in a handwritten note when I received it, which was a lovely touch that you'd never get from a regular retailer.
+
+**Alex:** What were your expectations for delivery?
+
+**Sarah:** Based on what I'd read, I was expecting it to take maybe 5-7 days since it was coming from another individual rather than a warehouse. The seller posted it within 24 hours like she promised, and I could track it through the app, which was reassuring.
+
+---
+
+## Receiving & Post-Purchase Experience
+
+**Alex:** How was the actual unboxing experience?
+
+**Sarah:** I was genuinely excited when it arrived - it felt like getting a present! The seller had packaged it really nicely in a padded envelope with tissue paper. The dress was exactly as described, the condition was even better than I expected, and it fit perfectly.
+
+That handwritten note I mentioned made it feel personal, like I was shopping from a friend rather than a faceless company. It said something like "Hope you love this dress as much as I did! Perfect for summer events. Enjoy! - Katie xx"
+
+**Alex:** Did you have any issues with your first purchase?
+
+**Sarah:** None at all! I left a positive review for the seller and uploaded a photo of me wearing the dress. I think that's quite important on these platforms - building trust through the review system.
+
+**Alex:** How did this first experience influence your perception of Vinted?
+
+**Sarah:** It completely converted me, to be honest. I realized this could be a game-changer for my shopping habits. I could get high-quality, designer pieces at a fraction of the price, while also being more sustainable. Plus, the human element - interacting with real people rather than corporate customer service - made it feel more engaging and personal.
+
+---
+
+## Developing Shopping Patterns
+
+**Alex:** How did your usage of Vinted evolve after that first positive experience?
+
+**Sarah:** I definitely became a regular user. I'd say I browse the app probably 3-4 times a week now, and I make a purchase maybe once or twice a month. It's become part of my routine - I'll have a quick scroll through new listings during my lunch break or while watching TV in the evening.
+
+I also started following specific sellers who seemed to have similar taste to me or who consistently listed high-quality items. Vinted sends you notifications when they list new items, which is handy.
+
+**Alex:** Have you had any negative experiences since then?
+
+**Sarah:** I've had a couple of minor disappointments. Once I bought a "like new" jumper that arrived with some pilling that wasn't visible in the photos. But the seller was apologetic and offered a partial refund, which I accepted.
+
+Another time, a seller took ages to post an item - like two weeks - and wasn't very responsive to messages. That was frustrating, but Vinted's customer service was helpful when I contacted them.
+
+**Alex:** How do you typically search and browse now?
+
+**Sarah:** I've gotten much more strategic about it. I have specific brands I search for regularly - like COS, & Other Stories, Mango - because I know their quality and sizing. I also use the wishlist feature quite a bit. If I see something I like but I'm not ready to buy, I'll save it and come back to it later.
+
+I've learned to look for sellers with lots of positive reviews and clear, well-lit photos. If a listing only has one blurry photo, I usually skip it now.
+
+---
+
+## Value Perception & Benefits
+
+**Alex:** What would you say are the main benefits you get from using Vinted?
+
+**Sarah:** The cost savings are huge - I'd estimate I spend about 60-70% less on clothes now compared to when I was buying everything new. But it's not just about the money. I love the treasure hunt aspect of it. You never know what amazing piece you might find.
+
+The environmental aspect is really important to me too. I feel good knowing I'm extending the life of clothes rather than contributing to fast fashion waste.
+
+And honestly, I've discovered brands and styles I never would have tried if I had to pay full price. I bought a vintage Diane von Furstenberg wrap dress for £30 that I absolutely love, but I never would have spent £300+ on it in a store.
+
+**Alex:** Are there any downsides or frustrations?
+
+**Sarah:** The main frustration is that you can't always find exactly what you're looking for when you need it. If I need a specific item for an event next week, I might not find the right thing in my size in good condition at the right price.
+
+Sizing inconsistency can still be an issue, especially with vintage items or brands I'm not familiar with. I've gotten better at asking sellers for measurements, but it adds extra steps to the process.
+
+And sometimes I get a bit addicted to browsing! It's easy to get carried away when everything seems like such a good deal.
+
+---
+
+## Selling Experience
+
+**Alex:** I know you mentioned your friend sold items on Vinted. Have you tried selling as well?
+
+**Sarah:** Yes! After being a buyer for about six months, I decided to clear out my wardrobe and list some items I never wore. It was actually quite therapeutic - like decluttering but making money from it.
+
+The selling process was straightforward. You take photos, write descriptions, set prices, and list items. Vinted takes a small fee from sellers when items sell, but it's reasonable considering the platform and payment processing they provide.
+
+**Alex:** How successful were you as a seller?
+
+**Sarah:** I sold about 15 items over a few months and made around £200, which was better than I expected. Some pieces sold within days, others took weeks. I learned that good photos and detailed descriptions really matter - my items with better photos sold much faster.
+
+The best part was knowing my clothes were going to people who would actually wear them rather than just sitting in my wardrobe or ending up in a charity shop where they might not be wanted.
+
+---
+
+## Community & Social Aspects
+
+**Alex:** How important is the community aspect of Vinted to your experience?
+
+**Sarah:** It's actually quite significant. I follow several sellers whose style I admire, and I've built relationships with a few through repeat purchases and messages. There's a seller in London who seems to have very similar taste to me, and she often messages me when she lists something she thinks I'd like.
+
+The review system creates a sense of community too. When someone leaves a lovely review about how much they love an item I sold them, it feels really rewarding.
+
+**Alex:** Do you engage with any of Vinted's social features?
+
+**Sarah:** I'm not super active, but I do participate in the reviews and occasionally share photos of myself wearing items I've bought. I think it helps other buyers see how items look on real people.
+
+I've also joined a couple of the forums where people discuss styling tips and share their finds. It's quite inspiring to see how creative people get with second-hand fashion.
+
+---
+
+## Comparison with Other Platforms
+
+**Alex:** How does Vinted compare to other ways you shop for clothes?
+
+**Sarah:** It's completely changed my shopping habits. I still buy some things new - underwear, basic t-shirts, shoes sometimes - but for anything more special or expensive, Vinted is usually my first stop.
+
+Compared to traditional retail, it requires more patience and effort, but the rewards are much greater. Instead of buying one £100 dress, I can get three or four really nice pieces for the same money.
+
+Compared to other second-hand platforms, Vinted feels more professional and secure. The app is better designed than most, and the buyer protection gives me confidence.
+
+**Alex:** Do you still shop at traditional retailers?
+
+**Sarah:** Much less frequently. Maybe once every couple of months I'll buy something new if I can't find what I need second-hand, or if it's something I need immediately. But my default now is to check Vinted first.
+
+I do still browse traditional retailers for inspiration - I might see something in Zara that I like, then search for it on Vinted to see if anyone's selling it second-hand.
+
+---
+
+## Future Usage & Recommendations
+
+**Alex:** How do you see your relationship with Vinted evolving?
+
+**Sarah:** I think it's become a permanent part of how I shop. I can't imagine going back to buying most of my clothes new when I can get such great pieces second-hand.
+
+I'm getting more adventurous with what I search for - vintage items, international brands, even some luxury pieces that I'd never have considered at full price.
+
+I might also sell more actively. I've realized I could probably make decent side income by sourcing items and reselling them, though that would be more of a hobby than a business.
+
+**Alex:** Would you recommend Vinted to others?
+
+**Sarah:** Absolutely! I've actually converted several friends already. I always tell them to start with something small and inexpensive for their first purchase, just to get comfortable with the process.
+
+I think it's particularly great for people who care about sustainability, want to save money, or just enjoy the thrill of finding unique pieces. It's not for everyone - if you need instant gratification or don't like any uncertainty in your shopping, it might not be the best fit.
+
+**Alex:** Any advice for new Vinted users?
+
+**Sarah:** Be patient and don't expect perfection immediately. Start with sellers who have lots of good reviews, ask questions if you're unsure about anything, and don't be afraid to message sellers - most are really friendly and helpful.
+
+Also, be realistic about sizing and condition. Read descriptions carefully and look at all the photos. When in doubt, ask for measurements or additional photos.
+
+And definitely use the filtering options - they'll save you so much time and help you find exactly what you're looking for.
+
+---
+
+## Conclusion
+
+**Alex:** Is there anything else about your Vinted experience that we haven't covered?
+
+**Sarah:** I think we've covered most of it! The only thing I'd add is that Vinted has actually made me more thoughtful about my overall consumption. Because I know I can get great clothes second-hand, I'm less tempted by fast fashion impulse purchases. It's changed my relationship with shopping in a really positive way.
+
+I also love that I can clear out my wardrobe regularly by selling items, so I don't accumulate as much stuff. It feels like a more sustainable cycle overall.
+
+**Alex:** Perfect. Thank you so much for sharing your detailed journey with us today, Sarah. This has been incredibly insightful.
+
+**Sarah:** You're welcome! Happy to help. Vinted has genuinely been one of my favorite discoveries of the past few years, so I'm always happy to talk about it!
+
+---
+
+## Interview Summary
+
+**Total Duration:** 32 minutes  
+**Key Themes Identified:**
+- Sustainability motivation as primary driver
+- Importance of trust and seller reviews
+- Value perception beyond just price savings
+- Community and personal connection elements
+- Evolution from skeptical newcomer to loyal advocate
+- Integration into regular shopping routine
+
+**Notable Insights:**
+- First purchase hesitation overcome through direct seller communication
+- Positive first experience crucial for platform adoption
+- Browsing behavior became habitual and routine
+- Platform changed overall consumption patterns
+- Strong word-of-mouth recommendation likelihood
+
+---
+
+*End of transcript*

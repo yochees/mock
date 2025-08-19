@@ -1,0 +1,101 @@
+response_id,date,customer_id,score,feedback,touchpoint,customer_segment
+1,2025-04-07,C10045,9,"Great product, very intuitive interface!",Email,Enterprise
+2,2025-04-07,C20089,7,"Works well but could use more features.",Website,SMB
+3,2025-04-07,C30121,10,"Excellent support team, solved my issue immediately!",Support,Enterprise
+4,2025-04-07,C40202,8,"Very satisfied with the service overall.",Mobile App,Consumer
+5,2025-04-08,C50303,6,"Some features are hard to find.",Website,SMB
+6,2025-04-08,C60404,9,"The new update really improved performance.",Email,Enterprise
+7,2025-04-08,C70505,3,"Too expensive for what it offers.",Website,Consumer
+8,2025-04-08,C80606,8,"Good value for money.",Email,SMB
+9,2025-04-09,C90707,10,"Best software in this category!",Mobile App,Enterprise
+10,2025-04-09,C10808,5,"Average experience, nothing special.",Website,Consumer
+11,2025-04-09,C11909,7,"Mostly satisfied but have some suggestions.",Support,SMB
+12,2025-04-09,C12010,9,"Very reliable service.",Email,Enterprise
+13,2025-04-10,C13111,2,"Constant bugs and crashes.",Mobile App,Consumer
+14,2025-04-10,C14212,8,"Support team is highly knowledgeable.",Support,Enterprise
+15,2025-04-10,C15313,10,"Absolutely love this product!",Website,SMB
+16,2025-04-10,C16414,6,"Decent but needs improvement in user experience.",Email,Consumer
+17,2025-04-11,C17515,9,"Great value proposition.",Mobile App,Enterprise
+18,2025-04-11,C18616,7,"Generally good but documentation could be better.",Website,SMB
+19,2025-04-11,C19717,4,"Too complex for my needs.",Support,Consumer
+20,2025-04-11,C20818,10,"Outstanding product quality and support.",Email,Enterprise
+21,2025-04-12,C21919,8,"Very happy with my decision to purchase.",Mobile App,SMB
+22,2025-04-12,C22020,5,"Mediocre performance at times.",Website,Consumer
+23,2025-04-12,C23121,9,"Feature-rich and powerful.",Support,Enterprise
+24,2025-04-12,C24222,7,"Good product but expensive.",Email,SMB
+25,2025-04-13,C25323,10,"Exceeded all my expectations!",Mobile App,Enterprise
+26,2025-04-13,C26424,3,"Difficult to set up initially.",Website,Consumer
+27,2025-04-13,C27525,8,"Solid performance and reliability.",Support,SMB
+28,2025-04-13,C28626,9,"Excellent customer service.",Email,Enterprise
+29,2025-04-14,C29727,6,"Works as advertised but nothing special.",Mobile App,Consumer
+30,2025-04-14,C30828,10,"Best decision we made this year for our business!",Website,Enterprise
+31,2025-04-14,C31929,7,"Good but could be more intuitive.",Support,SMB
+32,2025-04-14,C32030,9,"Very professional team.",Email,Enterprise
+33,2025-04-15,C33131,4,"Not worth the price we're paying.",Mobile App,Consumer
+34,2025-04-15,C34232,8,"Happy with the performance and features.",Website,SMB
+35,2025-04-15,C35333,10,"Amazing product and team!",Support,Enterprise
+36,2025-04-15,C36434,7,"Generally meets our needs.",Email,SMB
+37,2025-04-16,C37535,9,"Excellent ROI for our business.",Mobile App,Enterprise
+38,2025-04-16,C38636,5,"Average user experience.",Website,Consumer
+39,2025-04-16,C39737,8,"Good product with minor issues.",Support,SMB
+40,2025-04-16,C40838,10,"Couldn't be happier with the service!",Email,Enterprise
+41,2025-04-17,C41939,6,"Some features are confusing to use.",Mobile App,Consumer
+42,2025-04-17,C42040,9,"Very impressed with the quality.",Website,Enterprise
+43,2025-04-17,C43141,7,"Good value overall.",Support,SMB
+44,2025-04-17,C44242,10,"Phenomenal product and support team!",Email,Enterprise
+45,2025-04-18,C45343,3,"Too many bugs in recent update.",Mobile App,Consumer
+46,2025-04-18,C46444,8,"Reliable and consistent performance.",Website,SMB
+47,2025-04-18,C47545,9,"Great features and usability.",Support,Enterprise
+48,2025-04-18,C48646,7,"Satisfactory experience overall.",Email,SMB
+49,2025-04-19,C49747,10,"Best in class product!",Mobile App,Enterprise
+50,2025-04-19,C50848,2,"Disappointed with recent changes.",Website,Consumer
+51,2025-04-19,C51949,8,"Good product that meets our needs.",Support,SMB
+52,2025-04-19,C52050,9,"Very satisfied customer.",Email,Enterprise
+53,2025-04-20,C53151,6,"Decent but room for improvement.",Mobile App,Consumer
+54,2025-04-20,C54252,10,"Exceptional quality and service!",Website,Enterprise
+55,2025-04-20,C55353,7,"Good but pricing could be better.",Support,SMB
+56,2025-04-20,C56454,9,"Very happy with our purchase decision.",Email,Enterprise
+57,2025-04-21,C57555,4,"Not intuitive enough for our team.",Mobile App,Consumer
+58,2025-04-21,C58656,8,"Solid product with good features.",Website,SMB
+59,2025-04-21,C59757,10,"Absolutely stellar service!",Support,Enterprise
+60,2025-04-21,C60858,7,"Generally satisfied with minor complaints.",Email,SMB
+61,2025-04-22,C61959,9,"Excellent product that delivers as promised.",Mobile App,Enterprise
+62,2025-04-22,C62060,5,"Middle of the road experience.",Website,Consumer
+63,2025-04-22,C63161,8,"Good reliability and performance.",Support,SMB
+64,2025-04-22,C64262,10,"World-class product and support!",Email,Enterprise
+65,2025-04-23,C65363,3,"Frustrated with performance issues.",Mobile App,Consumer
+66,2025-04-23,C66464,9,"Very impressed with the features.",Website,Enterprise
+67,2025-04-23,C67565,7,"Meets our needs well.",Support,SMB
+68,2025-04-23,C68666,10,"Could not ask for a better partner!",Email,Enterprise
+69,2025-04-24,C69767,4,"Too complicated for our use case.",Mobile App,Consumer
+70,2025-04-24,C70868,8,"Reliable product with good support.",Website,SMB
+71,2025-04-24,C71969,9,"Excellent ROI and performance.",Support,Enterprise
+72,2025-04-24,C72070,7,"Generally good experience.",Email,SMB
+73,2025-04-25,C73171,10,"Transformative for our business!",Mobile App,Enterprise
+74,2025-04-25,C74272,2,"Poor value for money.",Website,Consumer
+75,2025-04-25,C75373,8,"Solid product with minor issues.",Support,SMB
+76,2025-04-25,C76474,9,"Very happy with the service level.",Email,Enterprise
+77,2025-04-26,C77575,6,"Works but could be better.",Mobile App,Consumer
+78,2025-04-26,C78676,10,"Exceptional in every way!",Website,Enterprise
+79,2025-04-26,C79777,7,"Good overall but some room for improvement.",Support,SMB
+80,2025-04-26,C80878,9,"Very satisfied with our decision.",Email,Enterprise
+81,2025-04-27,C81979,3,"Difficult to use and not intuitive.",Mobile App,Consumer
+82,2025-04-27,C82080,8,"Reliable and meets expectations.",Website,SMB
+83,2025-04-27,C83181,10,"Outstanding quality and service!",Support,Enterprise
+84,2025-04-27,C84282,7,"Good but documentation needs work.",Email,SMB
+85,2025-04-28,C85383,9,"Excellent product that delivers results.",Mobile App,Enterprise
+86,2025-04-28,C86484,4,"Not what we expected for the price.",Website,Consumer
+87,2025-04-28,C87585,8,"Good value and performance.",Support,SMB
+88,2025-04-28,C88686,10,"Best-in-class solution!",Email,Enterprise
+89,2025-04-29,C89787,6,"Average experience, nothing special.",Mobile App,Consumer
+90,2025-04-29,C90888,9,"Very impressive features and reliability.",Website,Enterprise
+91,2025-04-29,C91989,7,"Satisfactory experience overall.",Support,SMB
+92,2025-04-29,C92090,10,"Absolutely delighted with this product!",Email,Enterprise
+93,2025-04-30,C93191,3,"Too many issues to recommend.",Mobile App,Consumer
+94,2025-04-30,C94292,8,"Good product that meets our needs.",Website,SMB
+95,2025-04-30,C95393,9,"Excellent support and service.",Support,Enterprise
+96,2025-04-30,C96494,7,"Generally satisfied customer.",Email,SMB
+97,2025-05-01,C97595,10,"Game-changer for our business!",Mobile App,Enterprise
+98,2025-05-01,C98696,2,"Disappointed with recent changes.",Website,Consumer
+99,2025-05-01,C99797,8,"Reliable product with good value.",Support,SMB
+100,2025-05-01,C10089,9,"Very happy with our decision to purchase.",Email,Enterprise

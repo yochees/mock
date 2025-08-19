@@ -1,0 +1,301 @@
+# Vinted Customer Interview Transcript
+## Customer Buyer Journey Research Session
+
+**Date:** June 15, 2025  
+**Duration:** 28 minutes  
+**Interviewer:** Lisa Chen, Product Researcher  
+**Participant:** Marcus Rodriguez, 34, Software Developer from Manchester, UK  
+**Session Type:** In-person interview  
+
+---
+
+## Introduction & Background
+
+**Lisa:** Thanks for taking the time to meet with me today, Marcus. Could you tell me a bit about yourself and how you typically approach shopping?
+
+**Marcus:** Sure! I'm 34, work as a software developer, and honestly, I hate shopping. Like, really hate it. I'm the type of person who will wear the same three hoodies until they fall apart rather than go clothes shopping. My girlfriend is always telling me I need to update my wardrobe, but traditional shopping just feels like such a waste of time and money.
+
+**Lisa:** That's interesting - so you're not naturally inclined toward fashion or shopping. How did Vinted come into your life?
+
+**Marcus:** Pure practicality, really. I needed a suit for my brother's wedding last year, and buying a new one would have cost me £300-400 minimum. My colleague James mentioned he'd gotten a decent suit on Vinted for like £60, so I thought, "Why not?" It wasn't about being trendy or sustainable - I just didn't want to spend a fortune on something I'd wear twice a year.
+
+**Lisa:** So cost was your primary motivation?
+
+**Marcus:** Absolutely. I'm quite frugal by nature. I drive a 12-year-old car, I buy the supermarket's own-brand everything, and I generally think most retail prices are just marketing markup. The idea that I could get the same brands for a fraction of the cost appealed to my logical side.
+
+---
+
+## Initial Platform Experience
+
+**Lisa:** What was your first impression when you started using Vinted?
+
+**Marcus:** Honestly? It felt a bit chaotic compared to what I'm used to. I mean, I mostly shop on Amazon where everything is standardized and predictable. Vinted felt more like... I don't know, a digital car boot sale? Lots of random stuff, inconsistent photo quality, varying levels of professionalism.
+
+But from a technical perspective, the app was well-built. Clean interface, good search functionality, proper filtering options. As a developer, I appreciate when an app actually works properly.
+
+**Lisa:** How did you navigate finding what you needed?
+
+**Marcus:** I approached it very systematically - probably differently than most people. I made a spreadsheet with my measurements, researched which suit brands typically fit my build, then set up specific searches with price limits and size filters.
+
+I wasn't browsing for fun like I imagine most users do. I had a clear objective: find a navy or charcoal suit, size 40R, decent condition, under £80. Very targeted.
+
+**Lisa:** Did you encounter any challenges during this process?
+
+**Marcus:** Several, actually. The biggest issue was inconsistent information. Some sellers would list a suit as "40R" but then the measurements they provided didn't match standard 40R sizing. Others had terrible photos where you couldn't properly assess the condition.
+
+I also found the whole messaging system a bit tedious. Having to negotiate or ask questions felt inefficient compared to just clicking "buy now" on Amazon and knowing exactly what you're getting.
+
+---
+
+## First Purchase Decision
+
+**Lisa:** Tell me about the suit you eventually chose.
+
+**Marcus:** I found a Hugo Boss suit that originally retailed for around £450, listed for £65. The seller had good ratings - about 30 positive reviews - and the photos were decent quality, though not great lighting. The description was quite detailed, mentioning it was dry-cleaned and worn only a few times for work meetings.
+
+**Lisa:** What made you decide on that particular item?
+
+**Marcus:** Three factors: brand reputation, price point, and seller reliability. Hugo Boss suits generally fit me well based on past experience, £65 was well within my budget, and the seller's review history suggested they were legitimate.
+
+I did spend probably two hours researching the seller's other listings and reading through their reviews to make sure they weren't dodgy. Maybe overkill, but that's just how I operate.
+
+**Lisa:** Were you nervous about the purchase?
+
+**Marcus:** Surprisingly, yes. Which is weird because I buy tech stuff online all the time without thinking twice. But with clothing, especially something important like a wedding suit, there were so many variables that could go wrong.
+
+What if it didn't fit? What if there were stains not visible in photos? What if the seller was unreliable? I'm used to having clear return policies and customer service departments to fall back on.
+
+---
+
+## Purchase Process & Communication
+
+**Lisa:** How did the actual buying process go?
+
+**Marcus:** Pretty straightforward once I committed. The payment system worked fine - I used PayPal for extra security. I liked that I could see all costs upfront: item price, shipping, no hidden fees.
+
+The one thing that annoyed me was having to create a whole profile and provide personal information. I just wanted to buy one item, not join a community.
+
+**Lisa:** Did you communicate with the seller?
+
+**Marcus:** Yeah, I messaged them asking for specific measurements - chest, waist, jacket length, trouser length. I also asked about any defects not mentioned in the listing. They responded within a day with all the details I requested, which was reassuring.
+
+The seller seemed quite professional, almost like a small business rather than someone just clearing out their wardrobe.
+
+**Lisa:** What were your expectations for delivery?
+
+**Marcus:** Low expectations, honestly. I figured it would take a week or two and I might need to chase them up. I ordered it about three weeks before the wedding to give myself buffer time in case I needed to find alternatives.
+
+---
+
+## Delivery & Product Experience
+
+**Lisa:** How did the delivery go?
+
+**Marcus:** Better than expected. The seller posted it the next day and it arrived within four days, which was faster than some things I've ordered from major retailers. It came in a proper suit carrier, which showed attention to detail.
+
+**Lisa:** And the suit itself?
+
+**Marcus:** I was genuinely impressed. It was exactly as described - maybe even slightly better condition than I expected. It fit perfectly, no obvious wear, and it had clearly been professionally cleaned recently.
+
+For £65, I got what would have been a £450 suit in perfect condition. From a pure value perspective, it was an incredible deal.
+
+**Lisa:** Any issues at all?
+
+**Marcus:** Minor thing - it needed a quick steam to get rid of some wrinkles from shipping, but that's hardly a complaint. I was prepared for much worse.
+
+I left a positive review, though I kept it brief. Not really one for writing detailed feedback.
+
+---
+
+## Evolving Usage Patterns
+
+**Lisa:** Did this positive experience change how you viewed Vinted?
+
+**Marcus:** It proved the concept worked, at least for specific, targeted purchases. I wasn't suddenly going to become a fashion enthusiast, but I realized this could be a useful tool for practical clothing needs.
+
+**Lisa:** Have you made other purchases since?
+
+**Marcus:** A few, but always with clear objectives. I bought winter coats for both me and my girlfriend - saved probably £200 compared to buying new. Got some decent boots, a couple of work shirts when I needed to upgrade my office wardrobe.
+
+I'd say I make maybe 3-4 purchases a year, always for specific needs rather than browsing for fun.
+
+**Lisa:** How has your approach evolved?
+
+**Marcus:** I've gotten better at identifying reliable sellers quickly. I look for people who seem to be running it almost like a business - consistent photo quality, detailed descriptions, quick responses to messages.
+
+I've also learned which brands work for my body type and sizing, so I can search more efficiently. And I've figured out timing - I usually shop for seasonal items at the end of the previous season when there's more choice.
+
+---
+
+## Value Perception & Practical Benefits
+
+**Lisa:** What's the main value you get from Vinted?
+
+**Marcus:** Pure economics. I can get quality clothing at 60-80% less than retail prices. For someone like me who views clothing as purely functional, it's perfect.
+
+I've probably saved over £500 in the past year compared to what I would have spent buying everything new. That's money I can put toward things I actually care about, like upgrading my home office setup.
+
+**Lisa:** Are there any downsides from your perspective?
+
+**Marcus:** The time investment is significant. Research, messaging sellers, waiting for responses, dealing with variable delivery times - it's much more labor-intensive than traditional shopping.
+
+You also can't rely on it for urgent needs. If I need something specific by a certain date, I can't guarantee I'll find it on Vinted in time.
+
+And there's always some uncertainty. Even with good photos and descriptions, you're taking a small gamble with each purchase.
+
+**Lisa:** How do these downsides weigh against the benefits?
+
+**Marcus:** For my usage pattern, the benefits far outweigh the downsides. I'm not an impulse buyer anyway, so the extra time and planning required doesn't bother me. And the money I save makes the occasional inconvenience worthwhile.
+
+---
+
+## Comparison with Traditional Shopping
+
+**Lisa:** How has Vinted changed your overall shopping behavior?
+
+**Marcus:** It's made me much more patient and strategic. Instead of grudgingly going to shops when I absolutely need something, I can plan ahead and search for exactly what I want at a price that doesn't annoy me.
+
+It's also made me more quality-conscious. When you're buying second-hand, you naturally focus on well-made items that have lasted. I've ended up with higher-quality clothing than I probably would have bought new.
+
+**Lisa:** Do you still buy clothes new?
+
+**Marcus:** Very rarely. Maybe underwear, socks, basic t-shirts - things where hygiene matters or where the cost difference isn't significant. But for anything substantial, Vinted is my first stop.
+
+I bought one shirt new recently because I needed it for a presentation the next day, and paying £40 for something I could have gotten for £8 on Vinted actually physically hurt.
+
+**Lisa:** What about other types of shopping?
+
+**Marcus:** I've started looking at other second-hand platforms for different categories. Bought a camera lens on eBay, some furniture on Facebook Marketplace. Vinted introduced me to the broader concept of peer-to-peer marketplaces as viable alternatives to retail.
+
+---
+
+## Technical & User Experience Perspective
+
+**Lisa:** As a developer, how do you rate Vinted's technical execution?
+
+**Marcus:** Pretty solid overall. The search functionality is good, the app is responsive, payment processing is smooth. I've never had any technical issues that prevented me from completing a purchase.
+
+The recommendation algorithm could be better - it often shows me women's clothing or completely irrelevant items. But the manual search tools are comprehensive enough that it doesn't matter much.
+
+**Lisa:** Any specific features you particularly value?
+
+**Marcus:** The detailed filtering options are excellent. Being able to filter by exact measurements, condition, brand, location, price range - it's exactly what someone like me needs to shop efficiently.
+
+I also appreciate that they show all costs upfront. No nasty surprises at checkout.
+
+**Lisa:** Anything you'd improve?
+
+**Marcus:** Better seller verification would be useful. Some kind of system to identify sellers who are essentially running small businesses versus people just clearing out wardrobes. The business-type sellers tend to be more reliable.
+
+Also, a "buy it now" option at fixed prices would be good. I don't want to negotiate or wait for auctions - just let me pay the asking price and be done with it.
+
+---
+
+## Social Aspects & Community
+
+**Lisa:** How do you engage with the social side of Vinted?
+
+**Marcus:** I don't, really. I leave brief reviews when required, but I'm not interested in following sellers or joining forums or anything like that. It's a transactional relationship for me.
+
+**Lisa:** Does the community aspect add any value for you?
+
+**Marcus:** The review system is valuable because it provides trust signals. But I'm not looking for styling advice or wanting to share photos of my purchases. I just want to buy clothes efficiently and move on with my life.
+
+I think Vinted tries to be a social platform, but for users like me, the marketplace functionality is what matters.
+
+---
+
+## Selling Experience
+
+**Lisa:** Have you tried selling on Vinted?
+
+**Marcus:** Once, when I was moving house and needed to declutter. Listed about 10 items - mostly clothes that no longer fit or that I never wore.
+
+**Lisa:** How did that go?
+
+**Marcus:** Mixed results. Some items sold quickly, others sat there for months. I think I made about £80 total, which was better than donating everything to charity but not enough money to make the effort worthwhile.
+
+The listing process was tedious - taking photos, writing descriptions, dealing with questions from potential buyers. For someone who hates shopping, I definitely hate selling even more.
+
+**Lisa:** Would you sell again?
+
+**Marcus:** Probably not unless I had a significant amount of valuable items to clear out. The time investment doesn't justify the returns for me.
+
+I'd rather donate things to charity and get the tax benefit than deal with individual sales.
+
+---
+
+## Future Usage & Recommendations
+
+**Lisa:** How do you see your relationship with Vinted continuing?
+
+**Marcus:** It's become a permanent part of my shopping toolkit. Whenever I need clothing, it's my first stop. I can't see that changing unless the platform significantly deteriorates or better alternatives emerge.
+
+I'm also more willing to try new brands or styles because the financial risk is so low. If a £10 shirt doesn't work out, it's not a big deal.
+
+**Lisa:** Would you recommend Vinted to others?
+
+**Marcus:** To people like me - practical, price-conscious, willing to invest time for savings - absolutely. But I wouldn't recommend it to someone who wants instant gratification or enjoys the traditional shopping experience.
+
+It's perfect for people who view clothing as functional rather than emotional purchases.
+
+**Lisa:** Any specific advice for new users?
+
+**Marcus:** Be systematic. Know your measurements, research brands that work for you, and set clear price limits before you start searching.
+
+Don't get emotionally attached to specific items - there will always be other options if your first choice doesn't work out.
+
+And be patient. This isn't Amazon Prime. Plan ahead and allow extra time for everything.
+
+---
+
+## Broader Impact & Reflections
+
+**Lisa:** Has using Vinted changed your perspective on consumption in general?
+
+**Marcus:** It's made me more aware of how much perfectly good stuff gets discarded unnecessarily. Seeing high-quality items being sold for fractions of their original price really highlights the wastefulness of always buying new.
+
+From an economic perspective, it's also made me question retail pricing strategies. If I can get a £200 jacket for £40, how justified was that original price point?
+
+**Lisa:** Any unexpected benefits?
+
+**Marcus:** I've ended up with a better wardrobe than I would have otherwise. Because everything is so affordable, I've been willing to try higher-end brands that I'd never have considered at full price.
+
+My girlfriend says I dress better now, which apparently has professional benefits I hadn't considered.
+
+**Lisa:** Anything else you'd like to add?
+
+**Marcus:** Just that Vinted fills a real gap in the market. For practical, value-conscious consumers who don't enjoy traditional shopping, it's an excellent solution. It just needs to resist the temptation to become too social media-focused and maintain its core marketplace functionality.
+
+---
+
+## Conclusion
+
+**Lisa:** Perfect. Thanks so much for sharing your perspective, Marcus. It's been really valuable to hear from someone with such a different approach to the platform.
+
+**Marcus:** No problem. Happy to help. And honestly, talking about it has reminded me I need to look for a new winter coat before the weather gets cold!
+
+---
+
+## Interview Summary
+
+**Total Duration:** 28 minutes  
+**Key Themes Identified:**
+- Practical, cost-driven motivation rather than fashion interest
+- Systematic, research-heavy approach to purchasing
+- Value perception focused on pure economics
+- Minimal engagement with social/community features
+- Quality improvement through access to higher-end brands
+- Efficiency concerns balanced against cost savings
+
+**Notable Insights:**
+- Technical background influences systematic approach to searching
+- Male perspective with functional view of clothing
+- Limited selling interest due to time/effort considerations
+- Platform expansion to other second-hand marketplaces
+- Seasonal planning and strategic timing
+- Quality-over-quantity mindset development
+
+---
+
+*End of transcript*
