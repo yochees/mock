@@ -1,0 +1,14 @@
+Generate me mock CSAT data
+CSAT calculated value range: 0-100
+Start date: 2025-01-01
+End date: 2025-08-24
+Datapoints frequency: Weekly (Mondays) 
+Local extremes sequence: 20, 15, 15, 20, 35, 30, 45, 48, 55
+End value: 55
+Variability and randomness between extremes: extremely high 
+
+Here is a header and sample row:
+Very unsatisfied,Unsatisfied,Neutral,Satisfied,Very Satisfied, Date
+8,5,10,20,57,2023-08-24
+Do not include calculated value or anything else.
+Output only valid CSV with no additional text, no explanations, or additional markup. Just the comma-separated values. 

@@ -1,0 +1,7 @@
+Generate me a mock customer feedback about his flight experience, full of PII data, including Passenger Name Record, flight number, flight reference, name and unmasked credit card. This should be several paragraphs of plain text where user wrote complain into chat support
+
+Company name: ACME Airlines
+
+Output only plain text with no formatting, markdown, explanations, or additional characters. Just the raw text content.
+
+

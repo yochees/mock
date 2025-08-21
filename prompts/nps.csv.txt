@@ -1,0 +1,14 @@
+Generate me mock NPS data
+NPS calculated value range: from -100 to 100
+Start date: 2025-01-01
+End date: 2025-08-24
+Datapoints frequency: Weekly (Mondays) 
+Local extremes sequence: -10, 20, 10, 40, 50
+End value: 50
+Variability and randomness between extremes: low 
+
+Here is a header and sample row:
+Detractors,Passives,Promoters,Date
+12,8,80,2023-08-24
+Do not include calculated value or anything else.
+Output only valid CSV with no additional text, no explanations, or additional markup. Just the comma-separated values. 

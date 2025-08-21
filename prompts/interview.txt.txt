@@ -1,0 +1,13 @@
+Generate me a mock interview with a customer. 
+
+Customer: he is pissed about some things, and very excited about the others.
+
+Inverviewing company: ACME Airlines
+Interview topic(s): Any
+Interview duration: 10 min. 
+
+No formatting, plain text (avoid markdown). No metadata. Only interview in format:
+Interviewer: {question goes here}
+Customer: {response goes here}
+
+Output only plain text with no formatting, markdown, explanations, or additional characters. Just the raw text content.
